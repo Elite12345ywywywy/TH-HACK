@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from mastervip.in/spiderv3_hackrecord/diuwin.html by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 08 Oct 2024 11:54:30 GMT -->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SPIDER V3</title>
+<link rel="stylesheet" href="blue.css">
+ <style>
+        @keyframes blink {
+            0% { opacity: 1; color: red; }
+            50% { opacity: 0; color: blue; }
+            100% { opacity: 1; color: green; }
+        }
+
+      
+
+     h2.blinking-text {
+            background-color: white;
+            padding: 10px;
+            width: 100%;
+            text-align: center;
+            margin: 0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .blinking-text span {
+            animation: blink 1s infinite;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+  <div id="topbanner">
+   <div id="tleft" style="  background-image: url(diuwin.jpg);
+"></div>
+    <div id="tright">
+      <div id="trtop">
+        <h5>THIS MOD NOT WORK IN OLD ID SO "REGISTER NOW"</h5>
+      </div>
+      <div id="trbot"> 
+        <button  onclick="window.open('../../external.html?link=https://diuwin.org/#/register?invitationCode=167371683609')" class="ani" id="register">REGISTER</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="notation">
+    <h5>ENTER LATEST 7 RECORD</h5>
+    <div id="record" class="record-display"></div>
+  </div>
+
+  <div class="entering">
+    <img class="ani" src="small.png" class="btn" id="sBtn" alt="s">
+    <img class="ani" src="big.png" class="btn" id="bBtn" alt="b">
+  </div>
+
+  <button class="ani" id="checkBtn">Check</button>
+  <button class="ani" class="btn" id="clearBtn">Clear</button>
+  <div id="result"></div>
+    <h2 class="blinking-text"><span>ADD 5000RS FOR 100% WIN </span></h2>
+  <div id="resultImage" class="result-image-container" style="display: none;">
+    <img src="#" alt="Result Image" id="resultImg">
+  </div>
+  <img id="levelupchart" src="bluelevel.png" alt="">
+  <div id="overlay">
+    <div id="overlayinfo">
+        <h1>🚨 IMPORTANT 🚨 </h1>
+        <h2>
+            Create a new account in tiranga  by clicking on Register Now button if you use this mod on old Account this mod will not work.
+            "Register" बटन पर क्लिक करके एक नया Account बनाये , यदि आप इस मॉड का उपयोग पुराने Account में करेगें , तो ये मॉड काम नहीं करेगा
+        </h2>
+        <button id="removepop" onclick="window.open('../../external.html?link=https://diuwin.org/#/register?invitationCode=167371683609')" >REGISTER NOW</button>
+    </div>
+  </div>
+</div>
+  <div class="musicbaji">
+    <audio id="loading" >
+    <source src="ding.mp3" type="audio/mpeg">
+    <audio id="clicking" src="click.mp3"></audio>
+  </audio>
+  </div>
+<script src="game.js"></script>
+</body>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'sg2plzcpnl504432'},{'dcenter':'sg2'},{'cp_id':'9806360'},{'cp_cache':''},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='../../img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js'></script>
+<!-- Mirrored from mastervip.in/spiderv3_hackrecord/diuwin.html by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 08 Oct 2024 11:54:36 GMT -->
+</html>

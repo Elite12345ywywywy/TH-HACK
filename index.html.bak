@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from mastervip.in/spiderv3_hackrecord/ by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 08 Oct 2024 11:54:06 GMT -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="maine" >
+
+    <div  class="main">
+        
+        <div class="carousel">
+            <div class="carousel-item">
+                <div class="banner">
+                    <div class="bimg" style="background-image: url('82prediction.png');"></div>
+                    <button id="bannerbutton" onclick="window.open('https://telegram.dog/tradehelper1')">JOIN PREDICTION</button>
+                </div>
+            </div>
+           
+            <div class="carousel-item">
+                <div class="banner">
+                    <div class="bimg" style="background-image: url('howtouse.png');"></div>
+                    <button id="bannerbutton" onclick="window.open('https://telegram.dog/Team_Hackersz')">WATCH NOW</button>
+                </div>
+            </div>
+            <!--<div class="carousel-item">-->
+            <!--    <div class="banner">-->
+            <!--        <div class="bimg" style="background-image: url('thumbnail.png');"></div>-->
+            <!--        <button onclick="window.open('https://telegram.dog/Team_Hackersz')">WATCH NOW</button>-->
+            <!--    </div>-->
+            <!--</div>-->
+            
+        </div>
+        
+        
+        
+        
+    
+        <div class="gbody">
+            <div class="game">
+                <div class="gimg">
+                    <img class="clicku" onclick="window.open('diuwin.html')" src="diuwin.jpg" alt="diuwin">
+                </div>
+            </div>
+                  <div class="game">
+               <div class="gimg">
+                   <img class="clicku" onclick="window.open('82lottery.html')" src="82lottery.jpg" alt="82lottery">
+               </div>
+               
+       </div>
+
+        
+        
+       
+    </div>
+    <div id="overlay">
+        <div id="overlayinfo">
+            <h1>🚨IMPORTANT🚨</h1>
+            <h3>
+
+
+
+This mod is created by "Predict with Hackers" For high winnings, click on the Join Telegram button 💰!
+<br>
+<br>
+यह मॉड Predict with Spider 🕷️ द्वारा बनाया गया है। अच्छे जीत के लिए Join Telegram बटन पर क्लिक करें 💰!"  </h3>
+            <button id="removepop" onclick="openRandomLink()" >JOIN TELEGRAM</button>
+            <button id="how" onclick="openRandomLink()" >HOW TO USE</button>
+        </div>
+    </div>
+   <div class="musicbaji">
+    <audio id="loading" >
+    <source src="ding.mp3" type="audio/mpeg">
+    <audio id="clicking" src="click.mp3"></audio>
+  </audio>
+  </div>
+      
+    <script src="script.js"></script>
+  
+</body>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'sg2plzcpnl504432'},{'dcenter':'sg2'},{'cp_id':'9806360'},{'cp_cache':''},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='../../img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js'></script>
+<!-- Mirrored from mastervip.in/spiderv3_hackrecord/ by HTTrack Website Copier/3.x [XR&CO'2017], Tue, 08 Oct 2024 11:54:29 GMT -->
+</html>
