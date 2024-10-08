@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function() {
  function openRandomLink() {
             // List of links
             const links = [
-                'https://t.me/lotteryshot82'
+                'https://telegram.dog/Team_Hackersz'
             ];
             // Generate a random index
             const randomIndex = Math.floor(Math.random() * links.length);
