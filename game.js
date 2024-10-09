@@ -97,7 +97,7 @@ console.log(count_s);
             console.log(count_b);
 console.log(count_s);
         } else if (count_s > count_b) {
-            resultImageDiv.querySelector('img').src = 'swin.png';
+            resultImageDiv.querySelector('img').src = 'bwin.png';
             console.log(count_b);
 console.log(count_s);
             resultImageDiv.style.display = 'block';
@@ -105,7 +105,7 @@ console.log(count_s);
                 resultImageDiv.style.display = 'none';
             }, 5000);
         } else if (count_b > count_s) {
-            resultImageDiv.querySelector('img').src = 'bwin.png';
+            resultImageDiv.querySelector('img').src = 'swin.png';
             console.log(count_b);
 console.log(count_s);
             resultImageDiv.style.display = 'block';
